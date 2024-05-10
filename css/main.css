@@ -61,6 +61,10 @@
     font-size: 14px;
     height: 100%;
     font-weight: 10;
+  } 
+
+  .banner-label a{
+    z-index: 5000;
   }
   
   .banner-container {
