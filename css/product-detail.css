@@ -128,7 +128,7 @@ button.button-no-bg {
 
 .button-bg-fadeout:hover {
   color: var(--color-primary);
-  box-shadow: 600px 0 0 0 var(--color-secondary) inset;
+  box-shadow: 1000px 0 0 0 var(--color-secondary) inset;
 }
 
 .button-primary {
